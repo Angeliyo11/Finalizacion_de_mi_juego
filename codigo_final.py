@@ -27,6 +27,6 @@ for _ in range(attempts):
     elif (user_choice == "piedra" and computer_choice == "tijera") or (user_choice == "papel" and computer_choice == "piedra") or (user_choice == "tijera" and computer_choice == "papel"):
         print("YEAH Ganaste que crack :3")
     else:
-        print("OHHH Te gano la  :(")
+        print("OHHH Te gano la Cpu :(")
 
 print("End Game")
